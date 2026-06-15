@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Saumya Rai!
-### 💻 About Me
-- 🚀 I am a passionate Developer exploring the worlds of **Python** and **Web Development**.
-- 📚 Currently focused on learning fundamental data structures, logic, and building clean web applications.
-- 🎯 My goal is to build efficient software solutions and contribute to open-source projects.
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
+### 📊 About Me
+- 🚀 I am a **Data Analyst** passionate about turning complex datasets into actionable business insights.
+- 🔍 Focused on data cleaning, exploratory data analysis (EDA), and predictive modeling.
+- 💡 Love creating interactive dashboards and telling compelling stories through data.
+### 🛠️ Tech Stack & Data Tools
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **BI Tools:** Tableau / Power BI, Excel
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Jupyter Notebooks
